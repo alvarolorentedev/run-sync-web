@@ -1,5 +1,7 @@
 # run-sync-web
 
+![run-sync-logo-396x100](https://cloud.githubusercontent.com/assets/3823294/24554425/63ba4c58-1625-11e7-8446-25b857d701d2.png)
+
 # Dominio comprado run-sync.com
 
 # Objetivo
