@@ -5,9 +5,12 @@
 # Objetivo
 
 Crear un servicio que sincronice todas las apps de running.
+
 El usuario debera loguearse en nuestro sistema.
-El usuario podra loguearse a todas las Apps y podra ver un listado de sus carreras por APP
-En cada tarjeta con la informacion podriamos mostrar si lo tiene sincronizado con otras (nos basaremos o en ID o en la fecha/hora)
+
+El usuario podra loguearse a todas las Apps y podra ver un listado de sus carreras por APP.
+
+En cada tarjeta con la informacion podriamos mostrar si lo tiene sincronizado con otras (nos basaremos o en ID o en la fecha/hora).
 
 # Necesitamos
 Front end web (me gusta este template: http://rubix410.sketchpixy.com/)
